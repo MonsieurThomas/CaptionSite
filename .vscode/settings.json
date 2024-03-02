@@ -1,0 +1,8 @@
+{
+    "editor.inlineCompletionsAccessibilityVerbose": true,
+    "editor.tabCompletion": "on",
+    "emmet.useInlineCompletions": true,
+    "github.copilot.enable": {
+        "javascript": "true"
+    }
+}
